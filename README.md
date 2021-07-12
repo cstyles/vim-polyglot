@@ -169,7 +169,7 @@ On top of all language packs from [vim repository](https://github.com/vim/vim/tr
 - [requirements](https://github.com/raimon49/requirements.txt.vim) (Syntax highlighting for pip files)
 - [rspec](https://github.com/keith/rspec.vim)
 - [rst](https://github.com/marshallward/vim-restructuredtext) (reStructuredText syntax highlighting for rst, rest, rest.txt and rst.txt files)
-- [ruby](https://github.com/vim-ruby/vim-ruby) (Ruby and HTML+ERB syntax highlighting for rb, builder, eye, fcgi, gemspec and 26 more files)
+- [ruby](https://github.com/vim-ruby/vim-ruby/tree/endless-def) (Ruby and HTML+ERB syntax highlighting for rb, builder, eye, fcgi, gemspec and 26 more files)
 - [rust](https://github.com/rust-lang/rust.vim) (Rust syntax highlighting for rs and rs.in files)
 - [scala](https://github.com/derekwyatt/vim-scala) (Scala syntax highlighting for scala, kojo and sc files)
 - [scss](https://github.com/cakebaker/scss-syntax.vim) (SCSS syntax highlighting for scss files)

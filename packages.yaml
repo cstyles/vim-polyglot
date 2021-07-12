@@ -1400,7 +1400,7 @@ filetypes:
   linguist: reStructuredText
 ---
 name: ruby
-remote: vim-ruby/vim-ruby
+remote: vim-ruby/vim-ruby@endless-def
 filetypes:
 - name: ruby
   linguist: Ruby
